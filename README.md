@@ -1,6 +1,8 @@
-##### Tehtävät <3 
+#Ohjelmistotekniikka
 
-## **Viikko 1**
+## Tehtävät <3 
+
+#### **Viikko 1**
 
 [Gitlog](https://github.com/imriina/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt) 
 
