@@ -10,3 +10,4 @@
 
 #### **Viikko 2**
 
+[Testikattavuus](https://github.com/imriina/ot-harjoitustyo/blob/master/laskarit/viikko2/Kattavuusraportti)
