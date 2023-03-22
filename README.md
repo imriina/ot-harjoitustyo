@@ -14,5 +14,5 @@
 
 [Testikattavuus](https://github.com/imriina/ot-harjoitustyo/blob/master/laskarit/viikko2/kattavuus.png)
 
-[Tuntikiranpito](https://github.com/imriina/ot-harjoitustyo/blob/master/laskarit/viikko2/kattavuus.png)
+[Tuntikirjanpito](https://github.com/imriina/ot-harjoitustyo/blob/master/laskarit/viikko2/kattavuus.png)
 
