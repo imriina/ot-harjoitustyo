@@ -10,4 +10,7 @@
 
 #### **Viikko 2**
 
+[Vaatimusmäärittely](https://github.com/imriina/ot-harjoitustyo/blob/master/dokumentaatio/vaatimusmaarittely.md)
+
 [Testikattavuus](https://github.com/imriina/ot-harjoitustyo/blob/master/laskarit/viikko2/Kattavuusraportti)
+
