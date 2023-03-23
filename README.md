@@ -1,5 +1,12 @@
 # Ohjelmistotekniikka
 
+## Oma projekti <3
+
+[Vaatimusmäärittely](https://github.com/imriina/ot-harjoitustyo/blob/master/doker/dokumentaatio/vaatimusmaarittely.md)
+
+[Tuntikirjanpito](https://github.com/imriina/ot-harjoitustyo/blob/master/dokumentaatio/tyoaikakirjanpito.md)
+
+
 ## Tehtävät <3
 
 #### **Viikko 1**
