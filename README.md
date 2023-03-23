@@ -1,6 +1,6 @@
 # Ohjelmistotekniikka
 
-## Tehtävät <3                      Oma projekti <3
+## Tehtävät <3
 
 #### **Viikko 1**
 
