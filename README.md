@@ -2,7 +2,7 @@
 
 ## Oma projekti <3
 
-[Vaatimusmäärittely](https://github.com/imriina/ot-harjoitustyo/blob/master/doker/dokumentaatio/vaatimusmaarittely.md)
+[Vaatimusmäärittely](https://github.com/imriina/ot-harjoitustyo/blob/master/dokumentaatio/vaatimusmaarittely.md)
 
 [Tuntikirjanpito](https://github.com/imriina/ot-harjoitustyo/blob/master/dokumentaatio/tyoaikakirjanpito.md)
 
